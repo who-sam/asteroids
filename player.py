@@ -9,7 +9,6 @@ class Player(CircleShape):
 
     def draw(self, screen):
         pygame.draw.polygon(screen , "white" , self.triangle() , width = 2 )
-        pass
 
 
     # in the player class
