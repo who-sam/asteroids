@@ -41,6 +41,7 @@ def main():
                 if obj.check_collision(shoot):
                     shoot.kill()
                     obj.kill()
+                    obj.split()
 
             if obj.check_collision(player):
                 print("Game over!")
