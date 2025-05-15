@@ -26,10 +26,10 @@ your-asteroids-game/
 ## 🚀 Getting Started
 
 1. **Clone the repo**  
-```bash
+   ```bash
    git clone https://github.com/yourusername/asteroids-game.git
    cd asteroids-game
-```
+   ```
 
 2. **Create a virtual environment & install dependencies**
 
@@ -50,11 +50,3 @@ your-asteroids-game/
 * **W / S**: Move forward / backward
 * **A / D**: Rotate left / right
 * **Space**: Shoot
-
-## 🛠️ Potential Upgrades
-
-> See below for ideas on how to enhance the game.
-
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for details.
